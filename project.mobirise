@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 61,
     "versionPublish": "4.5.2",
@@ -504,7 +504,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#c1c1c1",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>",
@@ -516,7 +516,7 @@
               "font-size": "16px"
             },
             "&.mbr-navbar--stuck .mbr-navbar__section": {
-              "background": "#c1c1c1"
+              "background": "#ffffff"
             },
             ".mbr-navbar__section": {},
             ".mbr-navbar__hamburger": {
@@ -561,7 +561,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#c1c1c1",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>",
@@ -900,7 +900,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#c1c1c1",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>",
@@ -1013,7 +1013,7 @@
             "sticky": true,
             "collapsed": false,
             "transparent": true,
-            "color": "#c1c1c1",
+            "color": "#ffffff",
             "hamburgerColor": "#ffffff"
           },
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"></a></li>",
