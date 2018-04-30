@@ -1,11 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Titillium+Web:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700);
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+
 
 @isPublish: true;
 
-#slider-z {
+#header1-1r {
 H1 {
-  font-family: 'Titillium Web', sans-serif;
-  text-align: right;
+  font-family: 'PT Sans', sans-serif;
+}
+P {
+  font-family: 'Oswald', sans-serif;
 }
 }
 
@@ -409,182 +413,52 @@ P {
 SPAN {
   color: #ffffff;
 }
+undefined {
+  color: #000000;
+}
 }
 
-#ext_menu-y {
-.mbr-brand__name {
+#instagram-feed-block-23 {
+}
+#ext_menu-2e .mbr-brand__name {
   font-size: 16px;
 }
-&.mbr-navbar--stuck .mbr-navbar__section {
-  background: #ffffff;
-}
-.mbr-navbar__section {
-}
-.mbr-navbar__hamburger {
-  color: #ffffff;
-}
-}
-
-
-
-
-
-
-
-#ext_menu-16 .mbr-brand__name {
-  font-size: 16px;
-}
-#ext_menu-16.mbr-navbar--stuck .mbr-navbar__section {
+#ext_menu-2e.mbr-navbar--stuck .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-16 .mbr-navbar__section {
+#ext_menu-2e .mbr-navbar__section {
   background: #2c2c2c;
 }
-#ext_menu-16 .mbr-navbar__hamburger {
+#ext_menu-2e .mbr-navbar__hamburger {
   color: #ffffff;
 }
-#header3-1k H3 {
-  font-family: 'Titillium Web', sans-serif;
-}
-#header3-1k SPAN {
-  font-family: 'Titillium Web', sans-serif;
-}
-#content1-1l P {
-  font-family: 'Titillium Web', sans-serif;
-  text-align: left;
-  color: #252525;
-}
-#msg-box4-1h .mbr-header__text {
-  color: #000000;
-  text-align: left;
-  font-family: 'Titillium Web', sans-serif;
-}
-#msg-box4-1h .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-1h .mbr-article {
-  color: #000000;
-}
-#msg-box4-1h .mbr-article P {
-  color: #000000;
-  font-family: 'Titillium Web', sans-serif;
-}
-#msg-box4-1j .mbr-header__text {
-  color: #000000;
-  font-family: 'Titillium Web', sans-serif;
-}
-#msg-box4-1j .mbr-header__subtext {
-  color: #ffffff;
-}
-#msg-box4-1j .mbr-article {
-  color: #000000;
-}
-#msg-box4-1j .mbr-article P {
-  color: #000000;
-  font-family: 'Titillium Web', sans-serif;
-}
-
-@isPublish: true;
-
-#footer1-19 {
-padding-top: (@paddingTop * 15px);
-padding-bottom: (@paddingBottom * 15px);
-& when (@bg-type = 'image') {
-  background-image: url(../../../@bg-value);
-}
-& when (@bg-type = 'color') {
-  background-color: @bg-value;
-}
-.content {
-  @media (max-width: 767px) {
-    text-align: center;
-    > div:not(:last-child) {
-      margin-bottom: 2rem;
-    }
-  }
-}
-.media-wrap {
-  @media (max-width: 767px) {
-    margin-bottom: 1rem;
-  }
-  .mbr-iconfont-logo {
-    font-size: 7.5rem;
-    color: #f36;
-  }
-  img {
-    height: 6rem;
-  }
-}
-.footer-lower {
-  .copyright {
-    @media (max-width: 767px) {
-      margin-bottom: 1rem;
-      text-align: center;
-    }
-  }
-  hr {
-    margin: 1rem 0;
-    border-color: #fff;
-    opacity: .05;
-  }
-  .social-list {
-    padding-left: 0;
-    margin-bottom: 0;
-    list-style: none;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: flex-end;
-    -webkit-justify-content: flex-end;
-    .mbr-iconfont-social {
-      font-size: 1.3rem;
-      color: #fff;
-    }
-    .soc-item {
-      margin: 0 .5rem;
-    }
-    a {
-      margin: 0;
-      opacity: .5;
-      -webkit-transition: .2s linear;
-      transition: .2s linear;
-      &:hover {
-        opacity: 1;
-      }
-    }
-    @media (max-width: 767px) {
-      justify-content: center;
-      -webkit-justify-content: center;
-    }
-  }
-}
-}
-
-#ext_menu-1a {
-.mbr-brand__name {
+#ext_menu-2e .mbr-brand__name {
   font-size: 16px;
 }
-&.mbr-navbar--stuck .mbr-navbar__section {
-  background: #c1c1c1;
+#ext_menu-2e.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
 }
-.mbr-navbar__section {
+#ext_menu-2e .mbr-navbar__section {
+  background: #2c2c2c;
 }
-.mbr-navbar__hamburger {
+#ext_menu-2e .mbr-navbar__hamburger {
   color: #ffffff;
 }
+#header2-2a H1 {
+  font-size: 22px;
 }
-
-#form1-1b {
-.mbr-header__text {
-  font-family: 'Titillium Web', sans-serif;
-  color: #252525;
-}
-}
-#ext_menu-1m .mbr-brand__name {
+#header2-2a P {
   font-size: 16px;
 }
-#ext_menu-1m.mbr-navbar--stuck .mbr-navbar__section {
-  background: #c1c1c1;
+#ext_menu-2e .mbr-brand__name {
+  font-size: 16px;
 }
-#ext_menu-1m .mbr-navbar__hamburger {
+#ext_menu-2e.mbr-navbar--stuck .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-2e .mbr-navbar__section {
+  background: #2c2c2c;
+}
+#ext_menu-2e .mbr-navbar__hamburger {
   color: #ffffff;
 }
