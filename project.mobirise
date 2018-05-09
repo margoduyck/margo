@@ -60,8 +60,8 @@
           "_anchor": "header1-1r",
           "_styles": {
             "H1": {
-              "font-family": "'PT Sans', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Sans:400,700"
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
               "font-family": "'Oswald', sans-serif",
