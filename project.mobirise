@@ -3,7 +3,7 @@
     "name": "margoduyck",
     "currentPage": "index.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 90,
+    "uniqCompNum": 93,
     "versionPublish": "4.7.2",
     "theme": {
       "additionalSetColors": [
@@ -525,6 +525,18 @@
       "components": [
         {
           "_params": {
+            "showMeta": true
+          },
+          "title": "SCULPTURES - PROCESS",
+          "meta": "",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2k"
+        },
+        {
+          "_params": {
             "fullWidth": false,
             "paddingTop": 3,
             "paddingBottom": 3,
@@ -534,61 +546,68 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7397.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7397-800x601.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7400.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7400-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7387.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7387-800x601.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7383.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7383-800x601.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7406.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7406-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7413.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7413-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7405.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7405-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7388.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7388-800x601.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
               }
             ]
           },
@@ -618,7 +637,7 @@
                 "title": "Slide 1",
                 "contentAlign": "right",
                 "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
               },
               {
                 "image": "images/slide2.jpg",
@@ -662,26 +681,28 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img-7386.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7386-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7393.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7393-800x601.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-7381.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-7381-800x601.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
               },
               {
                 "image": "images/slide4.jpg",
@@ -786,6 +807,18 @@
         "order": 2
       },
       "components": [
+        {
+          "_params": {
+            "showMeta": false
+          },
+          "title": "SKETCHBOOK",
+          "meta": "By John Smith posted July 30, 2015",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2j"
+        },
         {
           "_params": {
             "fullWidth": false,
