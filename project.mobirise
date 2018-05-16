@@ -1,9 +1,9 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
-    "uniqCompNum": 93,
+    "uniqCompNum": 97,
     "versionPublish": "4.7.2",
     "theme": {
       "additionalSetColors": [
@@ -38,7 +38,7 @@
             "showArrow": true,
             "contentAlign": "center",
             "bgImageRadio": true,
-            "bgImage": "images/bg5.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/redsock-3.jpg",
             "parallax": true,
             "bgColorRadio": false,
             "bgColor": "#4c6972",
@@ -498,7 +498,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagram-background.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/redsock-109.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -546,64 +546,64 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7397.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7397-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-9.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-9-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7400.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7400-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-4.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-4-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7387.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7387-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-61.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-61-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7383.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7383-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-100.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-100-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7406.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7406-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-46.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-46-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7413.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7413-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-52.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-52-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7405.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7405-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-103.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-103-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7388.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7388-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-14.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-14-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -619,56 +619,16 @@
           "_anchor": "gallery1-2f"
         },
         {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
           "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "image": "images/slide1.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 1",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">FOR MAC</a>"
-              },
-              {
-                "image": "images/slide2.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 2",
-                "contentAlign": "left",
-                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Slide 3",
-                "contentAlign": "center",
-                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
-              }
-            ]
+            "showMeta": true
           },
-          "articleLayout": false,
+          "title": "\"MET DE KIEKENS IP STOK, TE ZESSN.\"",
+          "meta": "\"Going home to roost with the chicken, at six.\"",
           "_tags": [
             "Thema"
           ],
-          "_name": "slider",
-          "_anchor": "slider-2g"
+          "_name": "header3",
+          "_anchor": "header3-2l"
         },
         {
           "_params": {
@@ -681,63 +641,36 @@
             "bgColor": "#4c6972",
             "images": [
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7386.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7386-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-65.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-65-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7393.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7393-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-81.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-81-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-7381.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/img-7381-800x601.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-27.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-27-800x533.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-77.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-77-800x533.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
               }
             ]
           },
@@ -797,6 +730,89 @@
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "_name": "ext.menu",
           "_anchor": "ext_menu-2e"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\"TWAS E PROEFKN'N, MO KEIT GESPOARD.\"",
+          "meta": "\"It was supposed to be a test, but I saved it.\"",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#4c6972",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-87.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-87-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-112.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-112-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-88.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-88-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-108.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-108-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-86.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-86-800x600.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-2n"
+        },
+        {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "\"NEN BLWOTN ISBEIR.\"",
+          "meta": "\"Naked polarbear.\"",
+          "_tags": [
+            "Thema"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o"
         }
       ]
     },
