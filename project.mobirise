@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "page2.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 97,
     "versionPublish": "4.7.2",
@@ -495,10 +495,10 @@
             "fullWidth": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fafafa",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/redsock-26.jpg",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/redsock-25.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -827,7 +827,7 @@
           "_params": {
             "showMeta": false
           },
-          "title": "SKETCHBOOK",
+          "title": "SKETCHBOOK<br>",
           "meta": "By John Smith posted July 30, 2015",
           "_tags": [
             "Thema"
