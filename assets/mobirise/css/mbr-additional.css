@@ -446,9 +446,13 @@ undefined {
 }
 #header2-2a H1 {
   font-size: 22px;
+  color: #252525;
+  text-align: right;
 }
 #header2-2a P {
   font-size: 16px;
+  color: #252525;
+  text-align: right;
 }
 #ext_menu-2e .mbr-brand__name {
   font-size: 16px;

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "page3.html",
+    "currentPage": "page1.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 97,
     "versionPublish": "4.7.2",
@@ -527,7 +527,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "SCULPTURES - PROCESS<br><br><br>",
+          "title": "SCULPTURES - PROCESS<br>",
           "meta": "",
           "_tags": [
             "Thema"
@@ -538,7 +538,7 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "0",
             "noGutter": false,
             "showText": false,
@@ -633,7 +633,7 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "0",
             "noGutter": false,
             "showText": false,
@@ -746,7 +746,7 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": 3,
+            "paddingTop": "4",
             "paddingBottom": "0",
             "noGutter": false,
             "showText": false,
@@ -838,7 +838,7 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": "0",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "noGutter": false,
             "showText": false,
@@ -1021,7 +1021,7 @@
             "bgImage": "images/bg2.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -1031,7 +1031,7 @@
             "overlayOpacity": 0.5
           },
           "title": "ABOUT MARGO DUYCK",
-          "text": "Born in 1998, young artist.<br>Kortrijk, Belgium. <br>LUCA School Of Arts.<br>Translating thoughts into drawings and drawings into sculptures. <br>Main focus : Animals.<br><br>",
+          "text": "<br>Born in 1998, young artist.<br>Kortrijk, Belgium. <br>LUCA School Of Arts.<br>Translating thoughts into drawings and drawings into sculptures. <br>Main focus : Animals.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-warning animated fadeInUp delay\" href=\"https://mobirise.com\">LEARN MORE</a>",
           "_tags": [
             "Thema"
@@ -1041,10 +1041,14 @@
           "_anchor": "header2-2a",
           "_styles": {
             "H1": {
-              "font-size": "22px"
+              "font-size": "22px",
+              "color": "#252525",
+              "text-align": "right"
             },
             "P": {
-              "font-size": "16px"
+              "font-size": "16px",
+              "color": "#252525",
+              "text-align": "right"
             }
           }
         },
