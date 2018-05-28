@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "index.html",
+    "currentPage": "page2.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 97,
     "versionPublish": "4.7.2",
@@ -48,7 +48,7 @@
             },
             "overlay": false,
             "overlayColor": "#222",
-            "overlayOpacity": 0.5
+            "overlayOpacity": "0"
           },
           "title": "<p>MARGO&nbsp;<span style=\"color: inherit; font-family: inherit;\">DUYCK</span></p>",
           "text": "Tèwattatè",
@@ -838,8 +838,8 @@
         {
           "_params": {
             "fullWidth": true,
-            "paddingTop": "1",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "noGutter": false,
             "showText": false,
             "showBullets": true,
