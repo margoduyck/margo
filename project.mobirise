@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 97,
     "versionPublish": "4.7.2",
@@ -490,8 +490,8 @@
             "rows": "2",
             "showMoreButton": true,
             "layoutSliderRadio": true,
-            "imagesPerRowSlider": "5",
-            "spacing": 5,
+            "imagesPerRowSlider": "4",
+            "spacing": "7",
             "fullWidth": false,
             "paddingTop": "2",
             "paddingBottom": "2",
