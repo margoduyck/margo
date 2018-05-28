@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 97,
     "versionPublish": "4.7.2",
@@ -50,7 +50,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "M A R G O &nbsp; D U Y C K",
+          "title": "<p>MARGO&nbsp;<span style=\"color: inherit; font-family: inherit;\">DUYCK</span></p>",
           "text": "Tèwattatè",
           "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">SCULPTURES</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">DRAWINGS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg animated fadeInUp delay btn-default\" href=\"page3.html\" data-toolbar=\"-mbrBtnMove\">ABOUT</a> ",
           "_tags": [
@@ -64,8 +64,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "font-family": "'Slabo 27px', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
           }
         },
@@ -498,7 +498,7 @@
             "bgColorRadio": false,
             "bgColor": "#fafafa",
             "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/redsock-109.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/redsock-26.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
             "overlayOpacity": 0.6
@@ -527,7 +527,7 @@
           "_params": {
             "showMeta": true
           },
-          "title": "SCULPTURES - PROCESS",
+          "title": "SCULPTURES - PROCESS<br><br><br>",
           "meta": "",
           "_tags": [
             "Thema"
@@ -537,13 +537,13 @@
         },
         {
           "_params": {
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
+            "paddingBottom": "0",
+            "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/redsock-9.jpg",
@@ -632,13 +632,13 @@
         },
         {
           "_params": {
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
+            "paddingBottom": "0",
+            "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/redsock-65.jpg",
@@ -745,13 +745,13 @@
         },
         {
           "_params": {
-            "fullWidth": false,
+            "fullWidth": true,
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
+            "paddingBottom": "0",
+            "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
                 "image": "@PROJECT_PATH@/assets/images/redsock-87.jpg",
@@ -786,8 +786,8 @@
                 "active": false
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/redsock-86.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/redsock-86-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-89.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-89-800x604.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
@@ -837,70 +837,109 @@
         },
         {
           "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
+            "fullWidth": true,
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "noGutter": false,
             "showText": false,
             "showBullets": true,
-            "bgColor": "#4c6972",
+            "bgColor": "#ffffff",
             "images": [
               {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-2.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-2-800x512.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-5.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-5-800x516.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-7.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-7-800x1189.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-10.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-10-800x535.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-15.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-15-751x1184.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-11.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-11-800x499.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-32.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-32-800x510.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-722x1172.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-19.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-19-800x1200.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-24.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-24-800x482.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/redsock-35.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-35-800x506.jpg",
                 "alt": "",
                 "title": "",
                 "caption": "Type caption here",
                 "active": true
               },
               {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
+                "image": "@PROJECT_PATH@/assets/images/redsock-37.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/redsock-37-800x1270.jpg",
                 "alt": "",
                 "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
+                "caption": "Type caption here",
+                "active": false
               }
             ]
           },
@@ -910,82 +949,6 @@
           ],
           "_name": "gallery1",
           "_anchor": "gallery1-2b"
-        },
-        {
-          "_params": {
-            "fullWidth": false,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "noGutter": true,
-            "showText": false,
-            "showBullets": true,
-            "bgColor": "#4c6972",
-            "images": [
-              {
-                "image": "images/slide1.jpg",
-                "thumb": "images/slide1-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here",
-                "active": true
-              },
-              {
-                "image": "images/slide2.jpg",
-                "thumb": "images/slide2-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide3.jpg",
-                "thumb": "images/slide3-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide4.jpg",
-                "thumb": "images/slide4-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide5.jpg",
-                "thumb": "images/slide5-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide6.jpg",
-                "thumb": "images/slide6-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide7.jpg",
-                "thumb": "images/slide7-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              },
-              {
-                "image": "images/slide8.jpg",
-                "thumb": "images/slide8-small.jpg",
-                "alt": "",
-                "title": "",
-                "caption": "Type caption here"
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Thema"
-          ],
-          "_name": "gallery1",
-          "_anchor": "gallery1-2c"
         },
         {
           "_inherit": "menu",
