@@ -65,7 +65,8 @@
             },
             "P": {
               "font-family": "'Yanone Kaffeesatz', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700",
+              "color": "#252525"
             }
           }
         },
@@ -495,9 +496,9 @@
             "fullWidth": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgColor": "#fafafa",
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "bgImage": "@PROJECT_PATH@/assets/images/redsock-25.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
