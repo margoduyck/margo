@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 
 
 @isPublish: true;
@@ -9,7 +9,7 @@ H1 {
   font-family: 'Oswald', sans-serif;
 }
 P {
-  font-family: 'Slabo 27px', serif;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 }
 

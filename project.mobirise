@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "margoduyck",
-    "currentPage": "page3.html",
+    "currentPage": "index.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 100,
     "versionPublish": "4.7.2",
@@ -64,8 +64,8 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
             },
             "P": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "font-family": "'Yanone Kaffeesatz', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700"
             }
           }
         },
@@ -495,9 +495,9 @@
             "fullWidth": false,
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgColor": "#fafafa",
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/redsock-25.jpg",
             "overlay": false,
             "overlayColor": "#efefef",
